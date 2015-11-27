@@ -1,0 +1,19 @@
+1) Initialize integer variables first = 0 and second = 1
+
+2) If n is one then print only 0.
+
+3) if n is two then print first and second values.
+
+4) else Print the first and second values and Repeat the loop form 2 until n
+
+      a) Add the first and second value and store it in a local variable.
+
+      b) Print the local variable.
+
+      c) restore the value of second in first and temp in second.
+
+5) end.
+
+Time Complexity : O(n-2)
+
+Space Complexity : 4 variables
